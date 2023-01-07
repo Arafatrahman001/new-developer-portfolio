@@ -1,0 +1,46 @@
+/* header and navigation style*/
+.header{
+    background: url(flat-lay-abstract-composition-with-innovation-elements.jpg);
+}
+.nav title{
+    display: flex;
+    justify-content: space-between;
+}
+*{
+    font-family: 'Work Sans';
+}
+.btn-primary{
+    font-weight: 200;
+font-size: 20px;
+text-align: right;
+color: #FFFFFF;
+}
+/*banner style*/
+.banner{
+    display: flex;
+justify-content: space-between;
+}
+/*banner style*/
+.banner{
+    font-weight: 700;
+font-size: 40px;
+}
+
+.plan-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.plan-title{
+    
+font-size: 30px;
+color: #151414;
+}
+.plan-description{
+    font-size: 25px;
+    color: #737272;
+
+}
+.future-title{
+    background: #F8F8F8;
+    font-size: 45px ;
+}
